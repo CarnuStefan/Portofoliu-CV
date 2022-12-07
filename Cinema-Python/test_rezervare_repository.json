@@ -1,0 +1,1 @@
+{"12": {"py/object": "Domain.rezervare.Rezervare", "id_entity": "12", "id_film": "1", "data_si_ora": {"py/object": "datetime.datetime", "__reduce__": [{"py/type": "datetime.datetime"}, ["BN0BExAvAAAAAA=="]]}, "id_card_client": "1"}}
