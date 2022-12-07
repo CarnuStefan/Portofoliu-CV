@@ -1,0 +1,174 @@
+782
+397
+3
+Florica
+Claudiu
+Sa ai grija ca ploua!
+Claudiu
+Florica
+Mi-am luat umbrela. Sunt ok.
+Florica
+Claudiu
+Bine.
+782
+31
+2
+Irina
+Florica
+Buna ziua!
+Florica
+Irina
+Buna seara!!
+31
+162
+3
+Irina
+Ana
+Salut Ana! Imi poti trimite cursul de astazi?
+Ana
+Irina
+Nu chiar acum, imi pare rau!
+Irina
+Ana
+Cand poti tu! Nu e graba.
+162
+174
+2
+Ana
+Ion
+Mai ajungi azi?
+Ion
+Ana
+In 5 minute cobor!!!
+174
+197
+2
+Ion
+Mitica
+Salut! Pot sa te sun?
+Mitica
+Ion
+Sunt la sedinta. Te sun eu.
+197
+227
+2
+Andreea
+Mitica
+Salut, imi poti trimite pozele?
+Mitica
+Andreea
+Ti le trimit pe mail.
+227
+261
+2
+Andreea
+Gabriel
+Heeeeei, ai chef sa iesim?
+Gabriel
+Andreea
+Normal!
+261
+265
+2
+Gabriel
+George
+A fost bine la doctor?
+George
+Gabriel
+Da!! Sunt sanatos tun.
+265
+565
+2
+Matei
+George
+Mi-ai vazut cartea?
+George
+Matei
+E la mine pe masa.
+565
+421
+2
+Ana
+Matei
+Salut!
+Matei
+Ana
+Ce mai faci?
+421
+702
+2
+Ana
+Gheorghe
+Voi intarzia maine! Imi cer mii de scuzee!!
+Gheorghe
+Ana
+OK! Sa nu se intample prea des.
+702
+779
+2
+Gheorghe
+Alex
+Sa iti faci temele!
+Alex
+Gheorghe
+Ok!Le fac!
+779
+813
+2
+Alex
+Mariana
+La multi ani!
+Mariana
+Alex
+Multumesc!
+813
+676
+2
+Mariana
+Gabriela
+Sarut-mana, cum mai sunteti?
+Gabriela
+Mariana
+Tot mai bine,din fericire!
+676
+825
+2
+Gabriela
+Mihai
+Sa ma astepti azi dupa scoala!
+Mihai
+Gabriela
+Ok!
+825
+916
+3
+Mihai
+Anca
+L-ai vazut pe tata?
+Anca
+Mihai
+E in curte.
+Mihai
+Anca
+Mersiiiiii!!!
+916
+977
+2
+Anca
+Iulia
+Ai grija de fratele tau!
+Iulia
+Anca
+Nu vreau!
+977
+397
+3
+Iulia
+Claudiu
+Te striga tata!
+Claudiu
+Iulia
+Ce vrea?
+Iulia
+Claudiu
+Nu stiu dute si vezi!!

@@ -1,0 +1,3 @@
+C:/Users/crnst/Desktop/OOP/Labs/Library-C++/cmake-build-debug/CMakeFiles/Lab9_10.dir
+C:/Users/crnst/Desktop/OOP/Labs/Library-C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/crnst/Desktop/OOP/Labs/Library-C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir

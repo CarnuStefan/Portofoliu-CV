@@ -1,0 +1,13 @@
+# ninja log v5
+12	1126	6921110408872864	build.ninja	76581cbae7d07405
+37	1358	6752536047871577	CMakeFiles/Lab9_10.dir/UI/UI.cpp.obj	695bc8b53e3d748e
+8	1381	6746789454315743	CMakeFiles/Lab9_10.dir/main.cpp.obj	106ababb51a55c80
+1198	2056	6752824972087313	Lab9_10.exe	a02c7a4cffc61c93
+3941	5179	6746724695627423	CMakeFiles/Lab9_10.dir/Exceptions_and_Validators/MyException.cpp.obj	1a48cc3dfda27a3a
+9	1264	6752536046944296	CMakeFiles/Lab9_10.dir/Repository/Repo.cpp.obj	6fec024fafc0dbf9
+68	2117	6740594696252697	CMakeFiles/Lab9_10.dir/Domain/Carte.cpp.obj	8a968cee87798470
+7	1603	6752820287048281	CMakeFiles/Lab9_10.dir/Tests/Teste.cpp.obj	761b1e7a98307fe1
+1108	2272	6747448047212539	CMakeFiles/Lab9_10.dir/Service/Service.cpp.obj	4c24f01745c9bf26
+9	1317	6746789886725107	CMakeFiles/Lab9_10.dir/Repository/RepoFile.cpp.obj	bc854e6e86688fc3
+1113	2231	6747448046584217	CMakeFiles/Lab9_10.dir/Service/ServiceFile.cpp.obj	ee8a04661cbab7eb
+9	1197	6752824963603770	CMakeFiles/Lab9_10.dir/Exceptions_and_Validators/ValidatorCarte.cpp.obj	bff9d1f659161439

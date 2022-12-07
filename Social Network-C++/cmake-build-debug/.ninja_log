@@ -1,0 +1,11 @@
+# ninja log v5
+1	606	6921113046746908	build.ninja	389d86e1cf738e3f
+108	1721	6749967000358631	CMakeFiles/Project.dir/Domain/User.cpp.obj	f46896ebc250cf16
+101	1789	6749967001086123	CMakeFiles/Project.dir/Domain/Friendship.cpp.obj	3514de77b2755e83
+1742	3902	6749967022189708	CMakeFiles/Project.dir/Service/Service.cpp.obj	8b527b19c22b8048
+2055	3175	6749117250596975	CMakeFiles/Project.dir/Domain/Message.cpp.obj	b043d294b8e6b5ed
+9	1741	6749967000437861	CMakeFiles/Project.dir/main.cpp.obj	771b056e5dae2059
+4509	5650	6749967038973138	Project.exe	bf37c551943e69ae
+1723	3039	6749967013384201	CMakeFiles/Project.dir/Repository/RepoFileUser.cpp.obj	14dfbb06cd979be0
+1789	3582	6749967018649191	CMakeFiles/Project.dir/Repository/RepoFileFriendships.cpp.obj	8101f100b162eb1e
+3040	4508	6749967028284380	CMakeFiles/Project.dir/UI/UI.cpp.obj	c6c5a4816f45104f
